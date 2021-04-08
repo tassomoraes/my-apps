@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">NovenApp</string>
+
+    <!--São José-->
+    <string name="sj_titulo_dia1">1º Dia - São José, o grande instrumento da Providência Diniva na Família de Nazaré</string>
+    <string name="sj_titulo_dia2">2º dia – São José, o grande instrumento da Providência Divina na vida da Igreja</string>
+    <string name="sj_titulo_dia3">3º dia – São José, Patrono de toda a Obra Shalom</string>
+    <string name="sj_titulo_dia4">4º dia – São José, auxílio e socorro na implantação da Paz no mundo</string>
+    <string name="sj_titulo_dia5">5º dia – São José, construtor dos espaços sagrados</string>
+    <string name="sj_titulo_dia6">6º dia – São José, mantenedor do culto divino</string>
+    <string name="sj_titulo_dia7">7º dia – São José, modelo de abandono nas mãos de Deus</string>
+    <string name="sj_titulo_dia8">8º dia – São José, educador na vivência da sobriedade</string>
+    <string name="sj_titulo_dia9">9º dia – São José, ícone do espírito de pobreza</string>
+
+    <string name="sj_titulo_todos_dias">Oração para todos os dias</string>
+
+    <string name="sj_oracao_todos_dias">Amado São José, vós que fostes instrumento da Providência Divina na Família de Nazaré, na Igreja e para com vossos irmãos, fixai nossos olhos nas coisas que não passam e dai-nos a graça de ordenar nossas vidas para os tesouros do céu. Amém! (em seguida, reza-se um Pai-nosso, uma Ave Maria, um Glória)</string>
+
+    <string name="sj_oracao_dia1">São José, servo da Caridade, que acolhestes com fé e coragem confiante a missão de ser instrumento da Divina Providência para com Jesus e Maria, aumentai em nós a fé, a coragem e a confiança em Deus para, também nós, sermos instrumentos da Providência, como é da vontade de Deus desde a criação do mundo.</string>
+    <string name="sj_oracao_dia2">São José, servo fiel e prudente, que sois Patrono da Igreja Católica no mundo inteiro, protegendo e sendo instrumento da Divina Providência para Jesus, seu Divino Fundador e para Maria, seu Modelo mais perfeito, dai-nos a graça de, também nós, apesar do nosso pecado e indignidade, termos o privilégio de ser instrumentos da Providência de Deus na Igreja do vosso Filho Jesus.</string>
+    <string name="sj_oracao_dia3">São José, humílimo servo do Senhor, que sois instrumento da Providência Divina para a Obra Shalom, sede nossa inspiração e modelo para que, esquecidos de nós mesmos, sirvamos a Deus e sejamos mediadores de Sua Providência para a evangelização através da Obra que nos foi confiada.</string>
+    <string name="sj_oracao_dia4">São José, servo dulcíssimo, que educaste com exemplo, doçura e firmeza o Filho de Deus a vós confiado, ensinando-lhe o valor do trabalho como meio de partilha e vendo-o crescer em graça e sabedoria para a implantação de Sua Paz no mundo, auxilia-nos com os meios necessários para a educação dos nossos filhos e a formação dos que evangelizamos para que sejam, também eles, alegres testemunhas do Ressuscitado que passou pela cruz.</string>
+    <string name="sj_oracao_dia5">São José, servo e trabalhador diligente, que construístes para Jesus e Maria o lar em que reinaram com perfeição a caridade e a alegria, ajudai-nos a construir em nossos lares e na Obra espaços sagrados dignos da presença viva do vosso amado Jesus.</string>
+    <string name="sj_oracao_dia6">São José, servo piedoso, que tivestes para com Jesus e Maria permanente postura de oração, veneração, proteção e cuidado, servindo juntamente com Maria Àquele que adoráveis, fazei de nós instrumentos da Divina Providência para que nunca se extinga ou se empobreça em beleza, brilho, dignidade e piedade o culto divino em meio a nós.</string>
+    <string name="sj_oracao_dia7">São José, servo confiante, que não temestes tomar sob vossa proteção e sustento a Maria e Jesus e, abandonado às mãos do Deus das Providências os servistes durante toda vossa vida sem reter para vós nada do fruto do vosso trabalho, ensinai-nos a acolher a graça do completo abandono nas mãos do Pai que cuida de nós muito melhor do que nós mesmos.</string>
+    <string name="sj_oracao_dia8">São José, servo sóbrio e justo, que nunca considerastes como vosso o que vos poderia ser supérfluo, mas, longe disso, soubestes partilhar além do supérfluo, aquilo que Jesus, Maria e vossos irmãos necessitavam, ensinai-nos que o supérfluo não nos pertence, assim como, por direito de caridade, deixa de nos pertencer aquilo de que nosso irmão precisa.</string>
+    <string name="sj_oracao_dia9">São José, servo pobre do Senhor, que entendestes ser a partilha original a mesma partilha da Trindade para conosco, e que, em Jesus Cristo, vos deixastes moldar pelo espírito de partilha e comunhão que antecederam o pecado original, concedei-nos, pelo poder do vosso Filho, a graça de honrar nosso Batismo com a conversão à partilha e comunhão das origens, agora elevada a caridade pelos méritos de Cristo.</string>
+
+    <string name="sj_titulo_final">Oração Final</string>
+
+    <string name="sj_oracao_final">Glorioso São José, que fostes modelo de vivência da pobreza, da sobriedade, de instrumento da Divina Providência; vós que não detivestes para vós mesmo nenhum bem material ou espiritual, destinando-os sempre às necessidades de Jesus, de Maria e dos vossos irmãos; vós que, por graça divina, vistes restaurada em vós a vocação original do homem à caridade, trabalho, partilha e comunhão; vós que, inspirado pelo Espírito Santo, acolhestes a nova economia do Reino do vosso Filho Jesus, intercedei para que acolhamos o mesmo convite que vos fez o Pai de ser instrumentos de Sua Paz, de Sua Providência, de Sua Caridade, de Sua Pobreza para o homem de hoje. Amém.</string>
+
 </resources>
