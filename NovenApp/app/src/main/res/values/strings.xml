@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">NovenApp</string>
+    <string name="titulo_todos_dias">Oração para todos os dias</string>
+    <string name="titulo_final">Oração Final</string>
 
     <!--São José-->
     <string name="sj_titulo_dia1">1º Dia - São José, o grande instrumento da Providência Diniva na Família de Nazaré</string>
@@ -11,8 +13,6 @@
     <string name="sj_titulo_dia7">7º dia – São José, modelo de abandono nas mãos de Deus</string>
     <string name="sj_titulo_dia8">8º dia – São José, educador na vivência da sobriedade</string>
     <string name="sj_titulo_dia9">9º dia – São José, ícone do espírito de pobreza</string>
-
-    <string name="sj_titulo_todos_dias">Oração para todos os dias</string>
 
     <string name="sj_oracao_todos_dias">Amado São José, vós que fostes instrumento da Providência Divina na Família de Nazaré, na Igreja e para com vossos irmãos, fixai nossos olhos nas coisas que não passam e dai-nos a graça de ordenar nossas vidas para os tesouros do céu. Amém! (em seguida, reza-se um Pai-nosso, uma Ave Maria, um Glória)</string>
 
@@ -26,8 +26,36 @@
     <string name="sj_oracao_dia8">São José, servo sóbrio e justo, que nunca considerastes como vosso o que vos poderia ser supérfluo, mas, longe disso, soubestes partilhar além do supérfluo, aquilo que Jesus, Maria e vossos irmãos necessitavam, ensinai-nos que o supérfluo não nos pertence, assim como, por direito de caridade, deixa de nos pertencer aquilo de que nosso irmão precisa.</string>
     <string name="sj_oracao_dia9">São José, servo pobre do Senhor, que entendestes ser a partilha original a mesma partilha da Trindade para conosco, e que, em Jesus Cristo, vos deixastes moldar pelo espírito de partilha e comunhão que antecederam o pecado original, concedei-nos, pelo poder do vosso Filho, a graça de honrar nosso Batismo com a conversão à partilha e comunhão das origens, agora elevada a caridade pelos méritos de Cristo.</string>
 
-    <string name="sj_titulo_final">Oração Final</string>
-
     <string name="sj_oracao_final">Glorioso São José, que fostes modelo de vivência da pobreza, da sobriedade, de instrumento da Divina Providência; vós que não detivestes para vós mesmo nenhum bem material ou espiritual, destinando-os sempre às necessidades de Jesus, de Maria e dos vossos irmãos; vós que, por graça divina, vistes restaurada em vós a vocação original do homem à caridade, trabalho, partilha e comunhão; vós que, inspirado pelo Espírito Santo, acolhestes a nova economia do Reino do vosso Filho Jesus, intercedei para que acolhamos o mesmo convite que vos fez o Pai de ser instrumentos de Sua Paz, de Sua Providência, de Sua Caridade, de Sua Pobreza para o homem de hoje. Amém.</string>
+
+    <!--São Rafel-->
+    <string name="sr_oracao_todos_dias">Oh! Glorioso Arcanjo São Rafael, que estais presente ante o trono do Altíssimo. Eu, vosso indigno devoto, me humilho em vossa presença. Conhecendo por uma parte minha indignidade, e por outra vossa ardente caridade, vos suplico do íntimo do coração, que digneis escutar os meus humildes rogos e apresente-os ante o Senhor para obter por vossa mediação os favores que solicito nesta novena. Mas se minha súplica não há de contribuir para maior glória de Deus e salvação da minha alma, rogo-vos, oh! Meu Celestial protetor, mostrai a graça que me há de conduzir com mais segurança à eterna salvação. Não olheis tanto para os meus desejos, quanto ao bem de minha alma. Cheio de inteira confiança em Vós; espero alcançar o que solicito pelos méritos de Nosso Senhor Jesus Cristo, que vive e reina com o Pai e o Espírito Santo pelos séculos dos séculos. Amém. \n \nPedir as graças que se desejam.</string>
+
+    <string name="sr_invocacao">Invocação</string>
+
+    <string name="sr_oracao_invocacao">Oh! Glorioso Arcanjo São Rafael, lembra-te de seus devotos, em todas as partes e sempre peça por nós, ao Filho de Deus. (Rezar nove vezes Glória ao pai, em honra dos nove coros angélicos).</string>
+
+    <string name="sr_oracao_final">Glorioso Arcanjo São Rafael, celeste mensageiro destinado por Deus para nos servir de guia na peregrinação desta vida, para nos defender contra as ciladas do demônio e para curar as enfermidades da nossa alma e do nosso corpo. Nós invocamos vossa poderosa intercessão, seguros de que alcançareis por nós e nossas famílias aquelas graças singulares que dispensastes na santa casa de Tobias.
+    Bem sabeis piedoso Arcanjo, que nossa viagem do tempo à eternidade, está cercada de perigos, e que o demônio, como leão rugindo, nos persegue para causar profundas feridas em nossas almas, até apagar nelas, se for possível, a luz salvadora da fé. Vinde, pois, em nosso auxílio, e dignais ser nosso inseparável companheiro. Dirigi nossos passos ao caminho dos mandamentos divinos fazendo que nossos olhos estejam sempre abertos ao sol da verdade; procurando os remédios mais eficazes para curar e encher de fervor nosso espírito. Ensina-nos, oh! Poderoso arcanjo, a vencer a Satanás com as armas poderosas da oração, da vigilância e da mortificação dos nossos sentidos.
+    Consolide em nossas famílias o reinado da fé, a prática constante da piedade, o espírito de união e o exercício da santa caridade em favor dos pobres e dos nossos queridos mortos, a fim de que eles recebam do céu abundantes bênçãos que, por mediação vossa derramou Deus sobre o lar de Tobias.
+    Não nos abandoneis, pois, oh! Santo Arcanjo! Vigiai sempre ao nosso lado para que nossos passos sejam sustentados por vós, todas as vezes que sintamos desfalecidos na penosa e difícil jornada da vida. Nosso Senhor, Deus Todo-poderoso, que estais nos céus, e que é também o vosso, nos há confiado a vossa terna solicitude para que seja nosso guia neste desterro, nosso consultor nas dúvidas e nosso médico nas enfermidades. Coroais vossa obra de amigo fiel e condutor seguro, acompanhando nossas almas até as deixar nos braços de seu criador para amar-lhe e bendizer-lhe com vós eternamente. Assim seja.
+    Bendito e adorado seja o Santíssimo Sacramento do Altar e a Puríssima e Imaculada Conceição de Maria Santíssima, Senhora Nossa, concebida sem mancha de pecado original desde o primeiro instante de seu ser natural. Amém.
+
+
+
+
+    Pai Santo, eu te louvo e te Bendigo pela tua Bondade e pelo teu Amor. Peço-te em Nome de Jesus, teu muito amado Filho, meu Senhor e Salvador, que envies sobre mim o teu Espírito Santo com todos os seus frutos e dons.
+
+    Santifica, com a tua presença, o meu corpo e a minha alma. Concede-me fé forte em Ti e na tua Palavra. Dá-me a graça de te amar com todo o meu coração e de te pôr em primeiro lugar na minha vida, renunciando a todos os meus ídolos, vícios, pecados e defeitos.
+
+    Na tua infinita Misericórdia, tem compaixão de mim que sou um pecador e perdoa as minhas culpas. Também eu perdoo de todo o coração a todos aqueles que me ofenderam durante a minha vida. Livra-me de todas as ciladas e ataques do inimigo. Que ele não tenha nenhum domínio sobre mim.
+
+    Livra-me das seduções do mundo que me afastam de Ti e da tua Vontade. Livra-me das fraquezas da carne que me empurram para o pecado. Cura o meu corpo de todas as doenças e a minha mente de toda a ansiedade, tristeza ou perturbação.
+
+    Sabes bem que muitas coisas que vivi, desde o dia em que fui concebido, no ventre de minha mãe, me marcaram negativamente. Com a graça do Espírito Santo, cura agora, Pai Santo, no meu coração todas as feridas que nele encontrares, sobretudo aquelas que surgiram, por me ter sentido rejeitado, abandonado, não amado nem compreendido, vítima do ódio, da inveja, da indiferença e da maldade dos homens.
+
+    Dá-me um coração novo, como o Coração de Jesus: manso, humilde, cheio de alegria, de paz e transbordante de amor. Que eu comece hoje uma vida nova, te dê Glória em tudo o que penso, digo e faço e nesta peregrinação para Ti, seja acompanhado e ajudado por Maria, minha querida Mãe, e por todos os teus Anjos e Santos.
+
+    Amém</string>
 
 </resources>
