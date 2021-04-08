@@ -78,7 +78,7 @@ public class MainActivity extends AppCompatActivity {
         novena = new Novena("Novena de São Rafael Arcanjo", "1º Dia", R.drawable.sao_rafael);
         novenaList.add(novena);
 
-        novena = new Novena("Novena da Divina Misericórdia", "5º Dia", R.drawable.jesus_misericordioso);
+        novena = new Novena("Novena à Divina Misericórdia", "5º Dia", R.drawable.jesus_misericordioso);
         novenaList.add(novena);
 
     }
@@ -93,7 +93,7 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(getApplicationContext(),SaoRafaelActivity.class);
             startActivity(intent);
         } else if (novena.getTitulo().equals("Novena à Divina Misericórdia")){
-            Intent intent = new Intent(getApplicationContext(),SaoJoseActivity.class);
+            Intent intent = new Intent(getApplicationContext(),DivinaMisericordiaActivity.class);
             startActivity(intent);
         }
     }
