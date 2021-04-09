@@ -3,13 +3,13 @@ package com.tlom.novenapp.Model;
 public class Novena {
 
     String titulo;
-    String dia;
+    int dia=1;
     int imagem;
 
     public Novena() {
     }
 
-    public Novena(String titulo, String dia, int imagem) {
+    public Novena(String titulo, int dia, int imagem) {
         this.titulo = titulo;
         this.dia = dia;
         this.imagem = imagem;
@@ -23,11 +23,11 @@ public class Novena {
         this.titulo = titulo;
     }
 
-    public String getDia() {
+    public int getDia() {
         return dia;
     }
 
-    public void setDia(String dia) {
+    public void setDia(int dia) {
         this.dia = dia;
     }
 

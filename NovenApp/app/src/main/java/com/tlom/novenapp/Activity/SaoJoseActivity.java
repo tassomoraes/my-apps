@@ -7,19 +7,24 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+import com.tlom.novenapp.NovenaPreferencia;
 import com.tlom.novenapp.R;
 
 public class SaoJoseActivity extends AppCompatActivity {
 
     private Button buttonConcluir;
     private TextView textDia, textOracaoDia;
-    private int dia = 1;
+
+    private NovenaPreferencia preferencia;
+
     private int tituloDia, oracaoDia;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sao_jose);
+
+        preferencia = new NovenaPreferencia(getApplicationContext());
 
         textDia = findViewById(R.id.textDia);
         textOracaoDia = findViewById(R.id.textOracaoDia);
@@ -34,6 +39,9 @@ public class SaoJoseActivity extends AppCompatActivity {
     }
 
     public void concluirDia(){
+
+        Bundle dados = getIntent().getExtras();
+        int dia = dados.getInt("sj_dia");
 
         if (dia==9) {
             dia = 1;
@@ -81,6 +89,9 @@ public class SaoJoseActivity extends AppCompatActivity {
         textDia.setText(tituloDia);
         textOracaoDia.setText(oracaoDia);
         buttonConcluir.setText("Concluir "+dia+"º Dia");
+
+        preferencia.salvarDia("sj_dia",dia);
+
     }
 
 }

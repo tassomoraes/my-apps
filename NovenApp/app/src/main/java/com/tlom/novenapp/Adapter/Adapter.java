@@ -39,7 +39,7 @@ public class Adapter extends RecyclerView.Adapter<Adapter.MyViewHolder> {
     public void onBindViewHolder(@NonNull MyViewHolder holder, int position) {
         Novena novena = novenaList.get(position);
         holder.titulo.setText(novena.getTitulo());
-        holder.dia.setText(novena.getDia());
+        holder.dia.setText(novena.getDia()+"º Dia");
         holder.imagem.setImageResource(novena.getImagem());
     }
 
